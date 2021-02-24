@@ -1,4 +1,13 @@
-### Hi there 👋
+# Guilherme Lopes
+
+## Olá pessoal :smiley:
+Trabalho com tecnologia há 7 anos, porém na parte de serviços. Estou começando agora com a programação e buscando aprender sempre!
+
+Trabalho na Ao³
+<br/> Buscando aprender sobre full stack developer
+<br/> Posso ajudar com SQL e Infraestrutura
+<br/> :email: Entre em contato comigo: guilherme.mlopes@outlook.com
+https://www.linkedin.com/in/guilherme-lopes-9b364591/
 
 <!--
 **GuilhermeMLopes/GuilhermeMLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
