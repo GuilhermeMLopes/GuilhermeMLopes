@@ -7,7 +7,7 @@ Trabalho na Ao³
 <br/> Buscando aprender sobre full stack developer
 <br/> Posso ajudar com SQL e Infraestrutura
 <br/> :email: Entre em contato comigo: guilherme.mlopes@outlook.com
-https://www.linkedin.com/in/guilherme-lopes-9b364591/
+<br/> https://www.linkedin.com/in/guilherme-lopes-9b364591/
 
 <!--
 **GuilhermeMLopes/GuilhermeMLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
